@@ -2,9 +2,7 @@
 <h3 align="center">AI Engineer in Progress | Data Science Enthusiast | ML & Automation Developer</h3>
 
 <p align="center">
-  <img src=""C:\Users\champ\Downloads\Profff.jpg"" width="120" />
-  <img src="YOUR_GITHUB_IMAGE_URL" width="160">
-
+  <img src="https://raw.githubusercontent.com/Yajvendraa/Yajvendraa/main/Profff.jpg" width="160" style="border-radius: 50%;">
 </p>
 
 ---
@@ -80,8 +78,8 @@ A smart autonomous agent that:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yajvendra03&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajvendra03&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yajvendraa&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yajvendraa&layout=compact&theme=tokyonight" width="48%">
 </p>
 
 ---
