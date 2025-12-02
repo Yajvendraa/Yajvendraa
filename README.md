@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src=""C:\Users\champ\Downloads\Profff.jpg"" width="120" />
+  <img src="YOUR_GITHUB_IMAGE_URL" width="160">
+
 </p>
 
 ---
