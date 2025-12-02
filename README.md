@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in Progress | Data Science Enthusiast | ML & Automation Developer</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=512&id=Woq5t0gjx1nC&format=png" width="120" />
+  <img src=""C:\Users\champ\Downloads\Profff.jpg"" width="120" />
 </p>
 
 ---
